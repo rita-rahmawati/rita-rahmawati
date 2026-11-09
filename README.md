@@ -32,7 +32,7 @@ Saat ini saya mengarah ke karir sebagai **Data Engineer**, dan terbuka untuk pos
 - **Stack:** Python, LightGBM, Optuna, SHAP, FastAPI, Docker, MLflow
 
 ### 3. Analisis dan Prediksi Big Data: [`UAS-BDL`](https://github.com/rita-rahmawati/23.11.5641_Rita-Rahmawati_UAS-BDL)
-- **Deskripsi:** proyek analisis dan prediksi menggunakan PySpark dan algoritma machine learning berbasis big data. Proyek ini melatih saya memproses data berskala besar secara terdistribusi, bukan hanya dengan pandas di satu mesin.
+- **Deskripsi:** proyek analisis dan prediksi menggunakan PySpark dan algoritma machine learning berbasis big data, dikerjakan berdua. Proyek ini melatih saya memproses data berskala besar secara terdistribusi, bukan hanya dengan pandas di satu mesin.
 - **Stack:** PySpark, Machine Learning, Jupyter Notebook
 
 ### 4. Perencana Ruangan Multi-Agent: [`UAS-PDM-Room-Planner`](https://github.com/rita-rahmawati/UAS-PDM-Room-Planner)
@@ -43,12 +43,12 @@ Saat ini saya mengarah ke karir sebagai **Data Engineer**, dan terbuka untuk pos
 - **Stack:** Python, LangGraph, Groq, Gradio, Pillow
 
 ### 5. Tiketmu: [`project_Tiketmu_Semester4`](https://github.com/rita-rahmawati/project_Tiketmu_Semester4)
-- **Deskripsi:** proyek web pemesanan tiket online yang saya buat di semester 4 dengan PHP. Proyek ini jadi fondasi awal saya di backend web sebelum pindah ke Laravel.
-- **Stack:** PHP
+- **Deskripsi:** aplikasi web pemesanan tiket online berbasis Laravel yang saya buat di semester 4.
+- **Stack:** PHP, Laravel, JavaScript, Tailwind CSS
 
 ## Eksperimen lain
+- [`tinygpt-sejarah-indonesia`](https://github.com/rita-rahmawati/tinygpt-sejarah-indonesia): implementasi TinyGPT dengan 3 pendekatan tokenisasi berbeda pada korpus Sejarah Indonesia, lengkap dengan perbandingan hasilnya
 - [`obesity-classification-ml`](https://github.com/rita-rahmawati/obesity-classification-ml): klasifikasi obesitas menggunakan model Random Forest
-- [`tinygpt-sejarah-indonesia`](https://github.com/rita-rahmawati/tinygpt-sejarah-indonesia): korpus Sejarah Indonesia untuk melatih model TinyGPT
 
 ## Sertifikasi
 - Dicoding: Belajar Dasar AI
