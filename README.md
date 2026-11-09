@@ -39,6 +39,7 @@ Saat ini saya mengarah ke karir sebagai **Data Engineer**, dan terbuka untuk pos
 - **Masalah:** merancang tata letak ruangan butuh banyak pertimbangan sekaligus.
 - **Yang kami buat:** proyek kelompok berupa sistem multi-agent dengan LangGraph dan Groq, memakai arsitektur fan-out/fan-in antar agen. Hasilnya divisualisasikan sebagai denah isometrik, dan sistemnya dievaluasi lewat metrik akurasi, efektivitas, tingkat halusinasi, dan explainability.
 - **Peran saya:** membangun seluruh kode di Google Colab dari awal sampai selesai, mulai dari pipeline multi-agent sampai visualisasi dan evaluasi. Proses deploy ke publik dikerjakan oleh anggota tim lain.
+- **Demo:** [roomify di Hugging Face](https://huggingface.co/spaces/tanzz15/roomify) (di-deploy oleh anggota tim)
 - **Stack:** Python, LangGraph, Groq, Gradio, Pillow
 
 ### 5. Tiketmu: [`project_Tiketmu_Semester4`](https://github.com/rita-rahmawati/project_Tiketmu_Semester4)
